@@ -1,0 +1,19 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusroquecoelho/aula02.git"
+  },
+  "author": "Vinícius Roque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusroquecoelho/aula02/issues"
+  },
+  "homepage": "https://github.com/viniciusroquecoelho/aula02#readme"
+}
